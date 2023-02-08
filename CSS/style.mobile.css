@@ -65,9 +65,9 @@
 }
 
 .where {
-  padding: 80px 10px 10px 10px;
+  padding: 80px 20px 50px 20px;
   overflow: auto;
-  min-height: 80vh;
+  min-height: 100vh;
 }
 
 .where-img {
@@ -75,7 +75,8 @@
   width: 100%;
   border: 1px solid #ddd;
   border-radius: 5px;
-  margin:auto;
+  margin-bottom: 3rem;
+  display: block;
 }
 
 
